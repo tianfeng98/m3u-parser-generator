@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [5.0.2](https://github.com/Raiper34/m3u-parser-generator/compare/5.0.1...5.0.2)
+
+- docs(readme): improve readme installation instructions [`fffacd3`](https://github.com/Raiper34/m3u-parser-generator/commit/fffacd3b86c76095d59e36fea1029580e1d6d71a)
+- fix(package): It has a "import type error" when used in next.js #16 [`4dbb42d`](https://github.com/Raiper34/m3u-parser-generator/commit/4dbb42db1f6853953e70c8cf3ca6736587dbbd10)
+
 #### [5.0.1](https://github.com/Raiper34/m3u-parser-generator/compare/5.0.0...5.0.1)
+
+> 8 February 2025
 
 - docs(website): modernize website api documentation [`38094f2`](https://github.com/Raiper34/m3u-parser-generator/commit/38094f2db99731598d2859036e2b15e6548ef803)
 - fix(parser): Change EXTINF parsing to split on first, not last, comma [`c8e4791`](https://github.com/Raiper34/m3u-parser-generator/commit/c8e479161dcc4ec3d5490631fa42a1647741481d)

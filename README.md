@@ -30,7 +30,7 @@ import { M3uParser, M3uPlaylist, M3uMedia } from 'm3u-parser-generator';
 ```
 Or add directly into an HTML file with `jsdelivr` CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/m3u-parser-generator@5.0.1/dist/m3u-parser-generator.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/m3u-parser-generator@5.0.2/dist/m3u-parser-generator.iife.js"></script>
 <script>
   const M3uParser = m3uParserGenerator.M3uParser;
   const M3uPlaylist = m3uParserGenerator.M3uPlaylist;
